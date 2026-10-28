@@ -47,7 +47,7 @@ Once completed, submit the deliverables in the following three forms:
 
 ## ⏰ Time Expectation
 
-- Estimated time to complete: **30–60 minutes**.
+- Estimated time to complete: **30–40 minutes**.
 
 ---
 
